@@ -1,0 +1,25 @@
+a {
+  color: rgb(213, 121, 121);
+}
+
+.list-unstyled_text-decoration {
+  text-decoration: underline;
+  font-weight: 700;
+  color: rgb(178, 133, 223);
+}
+
+main {
+  padding-top: 50px;
+}
+
+h1 {
+  margin: 30px auto;
+}
+
+#ul {
+  margin: 30px auto;
+}
+
+h3 {
+  margin: 30px auto;
+}

@@ -1,0 +1,9 @@
+.list-header-link {
+  color: #000;
+}
+
+.list-header-link:hover {
+  text-decoration: none;
+  opacity: 0.5;
+  color: blueviolet;
+}
